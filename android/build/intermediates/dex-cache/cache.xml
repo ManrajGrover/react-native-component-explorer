@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-7032270c45bd69228be7e33209ced30942eb729a.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-ebd284ef9fbb7cb47c80560df047afcf144706b6.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-36f6e0b911210efb35edfee0c7f6aeb0a0612043.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-608ee98d2343c8a875d4cff91dbd5446dfb480a6.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-68131e030c12205d17f46202d0ff1818616f84e1.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-7f8fd41075fa007468661c21e0230307e5c37ab0.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50bae83a0680cb90776a4d36bb6aa4911a84fd8b">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-d2d8b523265f29e23f4761852a6f3ed126fae6e7.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d12931c7b260dda5ba99b8c89cd6ec2a104abed3">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-833e8601d4ed97ebd3ee99e2d6d09a99f6c96b71.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-0f69134a58eb351be648b29ba8912adacad8fb3b.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-16c2a9041afdd7aea38c9229d9e2fb1a15aa0709.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-81346ea7542e937173a1ebf1dbd5d21a6fdb2c34.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-3d2a12bea90ee7ce0648218dde98fd05b103c846.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-11baa3f438b3c2eae1e2a4e2e8871a36c91102b5.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-df1fa675fc50df3b9e3ee6d65590caef73ef3a4b.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-def93394a9687d4ebbf25bfba0efe0367dcd25f4.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-c97421bae26963ea3c6104fac65152f85161e4a8.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-66d3dc010a6bafef1562a145fc5303b9d1666a7c.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-87535945344194cf17e15e77d7b8afe5c7653581.jar" />
+    </item>
+    <item
+        jar="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/home/manrajsingh/Documents/Github/Exploring-Stuff/uiexp/android/app/build/intermediates/pre-dexed/debug/classes-6cea82e33decb3bdd3e318927ec55a207a69d4b5.jar" />
+    </item>
+
+</items>
