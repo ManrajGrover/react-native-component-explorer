@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-04-28 01:25:25
+* @Last Modified time: 2016-04-28 21:55:21
 */
 
 'use strict';
@@ -20,7 +20,7 @@ import React, {
 
 import RootList from './rootList';
 
-const data = ['maps'];
+const data = ['Maps'];
 
 class Root extends Component {
   constructor(props) {
@@ -79,7 +79,6 @@ const styles = StyleSheet.create({
     borderColor: '#e5e5e5'
   },
   listView: {
-    paddingTop: 20,
     backgroundColor: '#F5FCFF',
   }
 });
