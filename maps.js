@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-28 00:46:48
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-04-28 22:33:30
+* @Last Modified time: 2016-05-01 21:35:42
 */
 
 'use strict';
@@ -22,15 +22,18 @@ import React, {
 import MapView from 'react-native-maps';
 
 class Maps extends Component {
-  
-  getInitialState() {
-    console.log('LEL');
-    return {
-      latitude: 37.78825,
-      longitude: -122.4324,
-      latitudeDelta: 0.0922,
-      longitudeDelta: 0.0421,
+  constructor(props) {
+    super(props);
+    this.state = {
+      region : {
+        latitude: 37.78825,
+        longitude: -122.4324,
+        latitudeDelta: 0.0922,
+        longitudeDelta: 0.0421,
+      }
     };
+    console.log(this.state.region)
+    console.log('here!');
   }
 
   onRegionChange(region) {
