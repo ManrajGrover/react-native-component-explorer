@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
+        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-f9a1a5db86e867c3b36b3b2df7cfee75e7fd2f68.jar" />
+    </item>
+    <item
         jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
         <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-3173c7507bc109feffaff424f8720bc6fce3d18a.jar" />
-    </item>
-    <item
-        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-maps/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="bbf4364be348ce0731208e727e2759e2604e3ca9">
-        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-895f007b839520505c7add02d9b563820c5f0005.jar" />
     </item>
     <item
         jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
@@ -23,11 +23,11 @@
         <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-51f2875245a60696e39ad4a94fbc2d95b8a2f505.jar" />
     </item>
     <item
-        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-maps/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-f9a1a5db86e867c3b36b3b2df7cfee75e7fd2f68.jar" />
+        sha1="4d0566c69489ea70769d16401a672f494a19478f">
+        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-895f007b839520505c7add02d9b563820c5f0005.jar" />
     </item>
 
 </items>

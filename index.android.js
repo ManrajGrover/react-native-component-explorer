@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-01 21:05:31
+* @Last Modified time: 2016-05-02 01:03:06
 */
 
 'use strict';
@@ -21,6 +21,7 @@ import React, {
 import Root from './root';
 import Maps from './maps';
 import VP from './vp';
+import STV from './scrolltabs'
 var _navigator;
 
 BackAndroid.addEventListener('hardwareBackPress', () => {
@@ -41,6 +42,8 @@ class uiexp extends Component {
         return ( <Maps navigator={navigator} />);
       case 'ViewPager':
         return ( <VP navigator={navigator} />);
+      case 'ScrollableTabView':
+        return ( <STV navigator={navigator} />);
     }
   }
   render(){
