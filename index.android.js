@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-04-28 01:43:58
+* @Last Modified time: 2016-05-01 21:05:31
 */
 
 'use strict';
@@ -20,7 +20,7 @@ import React, {
 
 import Root from './root';
 import Maps from './maps';
-
+import VP from './vp';
 var _navigator;
 
 BackAndroid.addEventListener('hardwareBackPress', () => {
@@ -35,17 +35,19 @@ class uiexp extends Component {
   renderScene(route, navigator){
     _navigator = navigator;
     switch (route.name) {
-      case 'root':
+      case 'Root':
         return (<Root navigator={navigator} />);
-      case 'maps':
+      case 'Maps':
         return ( <Maps navigator={navigator} />);
+      case 'ViewPager':
+        return ( <VP navigator={navigator} />);
     }
   }
   render(){
     return(
       <View style={styles.container}>
         <Navigator
-          initialRoute={{name:'root'}}
+          initialRoute={{name:'Root'}}
           renderScene={this.renderScene.bind(this)}
         />
       </View>
