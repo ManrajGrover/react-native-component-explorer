@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-28 00:46:48
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-01 21:35:42
+* @Last Modified time: 2016-05-02 21:29:48
 */
 
 'use strict';
@@ -37,7 +37,9 @@ class Maps extends Component {
   }
 
   onRegionChange(region) {
-    this.setState({ region });
+    this.setState({
+      region: region
+    });
   }
 
   render() {
@@ -46,7 +48,7 @@ class Maps extends Component {
       <MapView
         style={styles.map}
         region={this.state.region}
-        onRegionChange={this.onRegionChange}
+        onRegionChange={this.onRegionChange.bind(this)}
       />
     );
   }
