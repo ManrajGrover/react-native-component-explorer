@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-02 01:03:06
+* @Last Modified time: 2016-05-05 13:41:47
 */
 
 'use strict';
@@ -21,7 +21,8 @@ import React, {
 import Root from './root';
 import Maps from './maps';
 import VP from './vp';
-import STV from './scrolltabs'
+import STV from './scrolltabs';
+import Cam from './camera';
 var _navigator;
 
 BackAndroid.addEventListener('hardwareBackPress', () => {
@@ -44,6 +45,8 @@ class uiexp extends Component {
         return ( <VP navigator={navigator} />);
       case 'ScrollableTabView':
         return ( <STV navigator={navigator} />);
+      case 'Camera':
+        return ( <Cam navigator={navigator} />);
     }
   }
   render(){

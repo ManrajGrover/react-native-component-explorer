@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-02 01:10:50
+* @Last Modified time: 2016-05-05 13:42:05
 */
 
 'use strict';
@@ -20,7 +20,7 @@ import React, {
 
 import RootList from './rootList';
 
-const data = ['Maps', 'ViewPager', 'ScrollableTabView'];
+const data = ['Maps', 'ViewPager', 'ScrollableTabView', 'Camera'];
 
 class Root extends Component {
   constructor(props) {

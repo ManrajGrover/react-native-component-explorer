@@ -25,10 +25,50 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:7:5-77
 MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:11:5-78
 MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [uiexp:react-native-maps:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-maps/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/AndroidManifest.xml:5:5-7:41
@@ -55,26 +95,6 @@ MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/manrajsingh/
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fresco:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:fbcore:0.8.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml
@@ -93,10 +113,13 @@ MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.react:react-native:0.24.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
@@ -107,6 +130,11 @@ MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.0.1] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:15:7-39
@@ -144,6 +172,18 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:30:7-84
 	android:name
 		ADDED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-permission#android.permission.CAMERA
+ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from [uiexp:react-native-camera:unspecified] /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/AndroidManifest.xml:14:19-67
 android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_PHONE_STATE
