@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-05-10 15:24:22
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-10 15:39:31
+* @Last Modified time: 2016-05-10 15:55:51
 */
 
 'use strict';
@@ -14,14 +14,17 @@ import React, {
   AsyncStorage,
   Text,
   View,
+  PixelRatio,
   ListView,
-  NativeModules: {
-    ImagePickerManager
-  },
+  NativeModules,
   Navigator,
+  Platform,
+  Image,
   ToastAndroid,
   TouchableOpacity
 } from 'react-native';
+
+let ImagePickerManager = NativeModules.ImagePickerManager;
 
 class IPM extends Component{
   state = {

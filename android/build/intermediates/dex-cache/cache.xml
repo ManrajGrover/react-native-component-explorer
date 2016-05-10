@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f43e9a604ea641bc74f4798e56610b75326b81b0">
+        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-895f007b839520505c7add02d9b563820c5f0005.jar" />
+    </item>
+    <item
         jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-camera/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -9,11 +16,11 @@
         <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-a98fecf0697983f4a972dc2f046b525db53427ce.jar" />
     </item>
     <item
-        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-maps/unspecified/jars/classes.jar"
+        jar="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/exploded-aar/uiexp/react-native-image-picker/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="85bbcbc91b24f132da3e1b7c4d3e90f26d097107">
-        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-895f007b839520505c7add02d9b563820c5f0005.jar" />
+        sha1="58edb7fd744c5f2fc2ab527bdc0e9146664de2d3">
+        <dex dex="/home/manrajsingh/Documents/Github/react-native-component-explorer/android/app/build/intermediates/pre-dexed/debug/classes-ed5aed65981948296b614fe8408ea070b8e3d6a3.jar" />
     </item>
 
 </items>

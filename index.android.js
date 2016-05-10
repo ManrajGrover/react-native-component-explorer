@@ -2,7 +2,7 @@
 * @Author: Manraj Singh
 * @Date:   2016-04-27 22:37:58
 * @Last Modified by:   Manraj Singh
-* @Last Modified time: 2016-05-05 13:41:47
+* @Last Modified time: 2016-05-10 15:54:02
 */
 
 'use strict';
@@ -23,6 +23,9 @@ import Maps from './maps';
 import VP from './vp';
 import STV from './scrolltabs';
 import Cam from './camera';
+import IPM from './ImagePicker';
+
+
 var _navigator;
 
 BackAndroid.addEventListener('hardwareBackPress', () => {
@@ -47,6 +50,8 @@ class uiexp extends Component {
         return ( <STV navigator={navigator} />);
       case 'Camera':
         return ( <Cam navigator={navigator} />);
+      case 'ImagePicker':
+        return ( <IPM navigator={navigator} />);
     }
   }
   render(){
