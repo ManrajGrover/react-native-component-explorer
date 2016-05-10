@@ -1,5 +1,6 @@
 rootProject.name = 'uiexp'
 
-include ':app', ':react-native-maps', ':react-native-camera'
+include ':app', ':react-native-maps', ':react-native-camera', ':react-native-image-picker'
 project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/android')
 project(':react-native-camera').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-camera/android')
+project(':react-native-image-picker').projectDir = new File(settingsDir, '../node_modules/react-native-image-picker/android')

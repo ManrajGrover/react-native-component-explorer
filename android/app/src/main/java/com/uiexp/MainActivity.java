@@ -10,6 +10,7 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.List;
 import com.AirMaps.AirPackage;
+import com.imagepicker.ImagePickerPackage;
 
 public class MainActivity extends ReactActivity {
 
@@ -40,7 +41,8 @@ public class MainActivity extends ReactActivity {
         return Arrays.<ReactPackage>asList(
             new MainReactPackage(),
             new RCTCameraPackage(),
-            new AirPackage()
+            new AirPackage(),
+            new ImagePickerPackage()
         );
     }
 }
